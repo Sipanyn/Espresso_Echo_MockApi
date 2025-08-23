@@ -7,7 +7,7 @@
       "favorite": false,
       "cart": false,
       "rate": 4,
-      "src": "https://espresso-echo-mock-api.vercel.app/images/Mixed Black Coffee.png/images/Espresso.png"
+      "src": "https://espresso-echo-mock-api.vercel.app/images/Espresso.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "favorite": false,
       "cart": false,
       "rate": 3.8,
-      "src": "https://espresso-echo-mock-api.vercel.app/images/Mixed Black Coffee.png/images/Caramel Frappucino.png"
+      "src": "https://espresso-echo-mock-api.vercel.app/images/Caramel Frappucino.png"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "favorite": false,
       "cart": false,
       "rate": 4.4,
-      "src": "https://espresso-echo-mock-api.vercel.app/images/Mixed Black Coffee.png/images/"
+      "src": "https://espresso-echo-mock-api.vercel.app/images/Ice Coffee.png"
     },
     {
       "id": 4,
